@@ -1,0 +1,9 @@
+D:\C#源码项目\Test_PDF\Test_PDF\bin\Debug\Test_PDF.exe.config
+D:\C#源码项目\Test_PDF\Test_PDF\bin\Debug\Test_PDF.exe
+D:\C#源码项目\Test_PDF\Test_PDF\bin\Debug\Test_PDF.pdb
+D:\C#源码项目\Test_PDF\Test_PDF\bin\Debug\PdfLibrary.dll
+D:\C#源码项目\Test_PDF\Test_PDF\obj\Debug\Test_PDF.csprojAssemblyReference.cache
+D:\C#源码项目\Test_PDF\Test_PDF\obj\Debug\Test_PDF.csproj.CoreCompileInputs.cache
+D:\C#源码项目\Test_PDF\Test_PDF\obj\Debug\Test_PDF.csproj.CopyComplete
+D:\C#源码项目\Test_PDF\Test_PDF\obj\Debug\Test_PDF.exe
+D:\C#源码项目\Test_PDF\Test_PDF\obj\Debug\Test_PDF.pdb
